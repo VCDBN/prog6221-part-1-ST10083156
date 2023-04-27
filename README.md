@@ -1,1 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/_FmM5Q2F)
+##Recipe App
+
+Created to allow users to input a single recipe into the program and display it, change and adjust quantities of ingredients as well as clear recipe and re-enter a new one
