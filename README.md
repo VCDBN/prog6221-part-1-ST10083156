@@ -1,6 +1,6 @@
 ##Recipe App
 
-Created to allow users to input a single recipe into the program and display it, change and adjust quantities of ingredients as well as clear recipe and re-enter a new one
+Created to allow users to input a single recipe into the program and display it, change and adjust quantities of ingredients as well as clear recipe and re-enter a new one.
 
 ##Application usage
 
@@ -14,3 +14,6 @@ The app persists the data entered only while active, meaning the recipe does not
 The application prompts users for input on the number of ingredients and steps as well as the name, quantity and unit of measurement of the ingredients.
 The user input goes through exception handling and input validation until it is deemed valid.
 Once valid, the input gets stored in various arrays.
+Once the steps and ingredients have been stored, the application displays the full recipe and displays a menu.
+The user can select the option they want.
+
