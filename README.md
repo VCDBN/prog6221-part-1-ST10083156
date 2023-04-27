@@ -16,4 +16,4 @@ The user input goes through exception handling and input validation until it is 
 Once valid, the input gets stored in various arrays.
 Once the steps and ingredients have been stored, the application displays the full recipe and displays a menu.
 The user can select the option they want.
-
+The application will complete the task that was selected and the menu will loop, repeating until the user selects to end the program.
