@@ -11,4 +11,4 @@ Once downloaded, or if you already have the application, open the application on
 ##Code functionality
 
 The app persists the data entered only while active, meaning the recipe does not get stored in memory when the application is deactivated.
-The application prompts users for input on the number of ingredients and steps as well as the name, quantity and unit of measurement of the ingredients
+The application prompts users for input on the number of ingredients and steps as well as the name, quantity and unit of measurement of the ingredients.
